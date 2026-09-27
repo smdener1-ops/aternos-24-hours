@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "playbdmcsee.aternos.me",
-    "port": 22716,
+    "ip": "pluffsmp.aternos.me",
+    "port": 64527,
     "version": "1.21.1"
   },
   "position": {
